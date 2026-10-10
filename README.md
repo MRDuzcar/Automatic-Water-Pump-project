@@ -48,6 +48,7 @@ The report includes wiring photographs, a program flowchart, console output, and
 ## Project report
 
 [View the project report](EECS%201011%20Water%20Pump%20-%20Google%20Docs.pdf)
+
 [Watch the report coverage](https://youtu.be/Yv3L_J7syi4)
 
 The report documents the implementation and test results. MATLAB source files are not currently included in this repository.
